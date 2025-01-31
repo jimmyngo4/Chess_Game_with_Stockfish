@@ -1,1 +1,1 @@
-# Chess_Game_with_Stockfish
+# A chess game with Stockfish as the engine
